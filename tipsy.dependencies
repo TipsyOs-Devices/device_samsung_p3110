@@ -23,5 +23,10 @@
         "repository": "SlimRoms/hardware_samsung",
         "target_path": "hardware/samsung",
         "branch": "lp5.1"
+    },
+    {
+        "repository": "TheMuppets/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch":   "cm-12.1"
     }
 ]
