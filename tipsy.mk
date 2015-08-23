@@ -29,6 +29,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Inherit some common Slim stuff.
 $(call inherit-product, vendor/tipsy/config/common_full_tablet_wifionly.mk)
 
+# use 44.1 kHz sounds
+TARGET_NEED_44KHZ_SOUNDS := true
+
 # Inherit device configuration
 $(call inherit-product, device/samsung/p3110/full_p3110.mk)
 
