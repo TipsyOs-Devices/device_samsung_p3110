@@ -5,9 +5,9 @@
         "branch": "lp5.1"
     },
     {
-        "repository": "CyanogenMod/android_kernel_samsung_espresso10",
+        "repository": "SlimRoms/kernel_samsung_espresso10",
         "target_path": "kernel/samsung/espresso10",
-        "branch": "cm-12.1"
+        "branch": "lp5.1"
     },
     {
         "repository": "SlimRoms/device_samsung_p3100",
